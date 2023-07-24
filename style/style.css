@@ -318,6 +318,9 @@ progress {
     .controls-play {
         width: 100%;
     }
+    .area-titulo {
+        width: 100%;
+    }
    
 }
 @media screen and (max-width:400px) {
