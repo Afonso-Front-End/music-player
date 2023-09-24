@@ -4,13 +4,13 @@ Um repositório dedicado a um simples player de música.
 
 ## Visão Geral
 
-Este projeto é um player de música desenvolvido em [linguagem de programação] que permite aos usuários ouvir suas músicas favoritas diretamente do seu dispositivo. Ele oferece recursos básicos, como reprodução, pausa, avanço e retrocesso, além de uma interface de usuário intuitiva para gerenciar e reproduzir listas de reprodução personalizadas.
+Este projeto é um player de música desenvolvido em [HTML CSS JS] que permite aos usuários ouvir músicas selecioandas pelo desenvolvedor diretamente do seu dispositivo. Ele oferece recursos básicos, como reprodução, pausa, avanço e retrocesso, além de uma interface de usuário intuitiva para gerenciar e reproduzir listas de reprodução.
 
 ## Funcionalidades Principais
 
-- Reprodução de músicas em diversos formatos.
+- Reprodução de músicas.
 - Controles de reprodução: reproduzir, pausar, avançar e retroceder.
-- Gerenciamento de listas de reprodução personalizadas.
+- Gerenciamento de listas de reprodução.
 - Exibição de informações sobre a música em reprodução.
 - Interface de usuário simples e amigável.
 
