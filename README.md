@@ -16,7 +16,7 @@ Este projeto é um player de música desenvolvido em [HTML CSS JS] que permite a
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshots/imagem.png)
+![Captura de Tela 1](screenshots/imagem1.png)
 
 ## Pré-requisitos
 
