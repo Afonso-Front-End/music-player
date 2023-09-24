@@ -1,4 +1,4 @@
-## [Music player](https://github.com/Afonso-Front-End/music-player)
+## [Music player]([https://github.com/Afonso-Front-End/music-player](https://afonso-front-end.github.io/music-player/))
 
 Um repositório dedicado a um simples player de música.
 
