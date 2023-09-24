@@ -1,4 +1,4 @@
-# Music Player https://github.com/Afonso-Front-End/music-player/settings/pages
+# Music Player
 
 Um repositório dedicado a um simples player de música.
 
