@@ -20,15 +20,7 @@ Este projeto é um player de música desenvolvido em [HTML CSS JS] que permite a
 
 ## Pré-requisitos
 
-- [Liste aqui os pré-requisitos, como linguagens, bibliotecas ou frameworks necessários]
-
-## Instalação
-
-[Instruções passo a passo para instalar o projeto localmente, se aplicável]
-
-## Uso
-
-[Explicação sobre como usar o player de música]
+- [Conehcimento, HTML CSS JS]
 
 ## Contribuição
 
@@ -40,18 +32,11 @@ Sinta-se à vontade para contribuir com este projeto. Se você deseja adicionar 
 4. Push para o branch: `git push origin minha-contribuicao`
 5. Abra um pull request para revisão.
 
-## Licença
-
-Este projeto é licenciado sob a [sua licença](LICENSE), que você pode escolher.
-
 ## Contato
 
-- Nome: [Seu Nome]
-- E-mail: [Seu E-mail]
-- LinkedIn: [Seu Perfil no LinkedIn]
-- Twitter: [Seu Perfil no Twitter]
+- Nome: [Afonso]
+- E-mail: [afonso.silva.as73@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/afonso-silva-09b63b272/]
+- Whatapp: [47 9 8889-5197]
 
-## Agradecimentos
-
-Agradecemos a todos que contribuíram para este projeto!
 
