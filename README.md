@@ -20,7 +20,7 @@ Este projeto é um player de música desenvolvido em [HTML CSS JS] que permite a
 
 ## Pré-requisitos
 
-- [Conehcimento, HTML CSS JS]
+- [Conhecimento, HTML CSS JS]
 
 ## Contribuição
 
